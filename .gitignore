@@ -12,3 +12,6 @@ BuildingEscape/Content/StarterContent/
 # VS Generated Files #
 ##########################
 *.VC.db
+*.suo
+BuildingEscape 4.19/.vs/BuildingEscape/v15/ipch/AutoPCH/d22c27e4060a68aa/OPENDOOR.ipch
+BuildingEscape 4.19/.vs/BuildingEscape/v15/ipch/AutoPCH/8bdb24fda3a086a9/OPENDOOR.ipch
